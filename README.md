@@ -1,1 +1,1 @@
-# photoBlog
+# photoGrid
