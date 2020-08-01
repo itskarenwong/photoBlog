@@ -1,19 +1,5 @@
-div{
-    width: 100px;
-    float: left;
-}
-
-#one{
-    background-color: aqua;
-}
-
-#two{
-    background-color: plum;
-}
-
 img{
     width: 30%;
-    height: 30%;
     float: left;
     margin: 1.66%;
 }
